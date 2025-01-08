@@ -48,8 +48,11 @@ View yearly savings summaries in the Data Table section.
 ![image](https://github.com/user-attachments/assets/33e6f746-f68a-4d53-a7b1-9dfe3b7fa442)
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgements
+
 Inspired by the need for simple and effective personal finance tools.
+
 Thanks to Font Awesome and Chart.js for their amazing resources.
