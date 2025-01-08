@@ -27,9 +27,13 @@ Fully optimized for desktop devices to provide the best user experience.
 Technologies Used
 
 Frontend: HTML, CSS, JavaScript
+
 Charts: Chart.js
+
 PDF Export: jsPDF and html2canvas
+
 Icons: Font Awesome
+
 
 How to Use?
 
