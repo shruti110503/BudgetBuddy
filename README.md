@@ -1,3 +1,5 @@
+BUDGET BUDDY
+
 Your Personal Finance Tracker and Savings Analyzer
 
 BudgetBuddy is an intuitive web application designed to help you track your expenses, visualize your savings, and manage your finances efficiently. Whether you're saving for a vacation, planning a monthly budget, or simply monitoring your daily expenses, BudgetBuddy is your perfect companion.
